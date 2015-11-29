@@ -1,7 +1,7 @@
 name: valeayala
 favicon: null
-layout_spectrum: 0.018313724547624588
-typography_spectrum: 0.7573849360924214
+layout_spectrum: 0.97221
+typography_spectrum: 0.98582
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.11941326898522675
-  lightness: 0.1713791573420167
-  saturation: 0.8766675475053489
-  rhythmicContrast: 0.6584001446608454
+    - '#f1f2f7'
+    - '#3a3a3c'
+    - '#fdab4d'
+    - '#24d3ea'
+    - '#f9624a'
+  brandStrength: 0.5625
+  lightness: 0.25
+  saturation: 0.875
+  rhythmicContrast: 0.75
 purpose: []
