@@ -1,6 +1,6 @@
 name: valeayala
 favicon: null
-layout_spectrum: 0.97221
+layout_spectrum: 0.20922
 typography_spectrum: 0.98582
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#fdab4d'
     - '#24d3ea'
     - '#f9624a'
-  brandStrength: 0.5625
+  brandStrength: 0.125
   lightness: 0.25
   saturation: 0.875
   rhythmicContrast: 0.75
