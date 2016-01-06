@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[valeayala]]></title>
         <description><![CDATA[valeayala]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/valeayala/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 Nov 2015 05:56:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Jan 2016 05:37:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/valeayala/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jan 03 2016]]></title>
+            <description><![CDATA[<article><h1>Jan 03 2016</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9bdff9b4932724937d68a0a0a8d78968a88c3d6b.gif"></article>]]></description>
+            <link>https://thegrid.ai/valeayala/jan-03-2016/index.html</link>
+            <guid isPermaLink="false">7c0b50b3-164d-483f-9b9d-b096909cc2cd</guid>
+            <pubDate>Wed, 06 Jan 2016 05:37:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Weekend In Guatavita, Colombia]]></title>
-            <description><![CDATA[<article><h1>A Weekend In Guatavita, Colombia</h1><p>A Weekend in Guatavita, Colombia</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b33acdd5-c735-4587-bc2b-1750bc69f360.jpg"></article>]]></description>
-            <link>undefineda-weekend-in-guatavita-colombia/index.html</link>
+            <description><![CDATA[<article><h1>A Weekend In Guatavita, Colombia</h1><p>A Weekend in Guatavita, Colombia</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b1f0b2e3cae011d514f6cd34ae3d2f253672d8d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/valeayala/a-weekend-in-guatavita-colombia/index.html</link>
             <guid isPermaLink="false">6cef4e6b-2b68-47d5-b96d-8f47cb837d5d</guid>
             <pubDate>Sun, 29 Nov 2015 05:56:37 GMT</pubDate>
         </item>
