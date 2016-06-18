@@ -1,7 +1,7 @@
 name: valeayala
 favicon: null
-layout_spectrum: 0.20922
-typography_spectrum: 0.98582
+layout_spectrum: 0.93914
+typography_spectrum: 0.48353
 title: valanonima
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#fdab4d'
     - '#24d3ea'
     - '#f9624a'
-  brandStrength: 0.125
-  lightness: 0.25
+  brandStrength: 0.8125
+  lightness: 0.75
   saturation: 0.875
   rhythmicContrast: 0.75
 purpose: []
